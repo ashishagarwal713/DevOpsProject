@@ -1,0 +1,7 @@
+I have created a maven project and written the source code in index.jsp using HTML and javascript.
+The code has 2 input check boxes and will give the sum of 2 input fields in the result input box. 
+If any of the number is not valid it will display an error message and will ask you to input the number again.
+
+Maven version used :  3.5.4
+Apache Tomcat Server used : 8.5
+Github Link : 
